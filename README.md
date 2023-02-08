@@ -2,10 +2,9 @@
 
 A simple BMI calculator app.
 
-This app is created from the londonappbrewery's flutter course. https://github.com/londonappbrewery
-The design of this app is from dribbble.com by Ruben Vaalt. https://dribbble.com/shots/4585382-Simple-BMI-Calculator
+This app is created from the londonappbrewery's flutter course. https://github.com/londonappbrewery.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3547fb2d-4737-44a7-ab61-1707e2eb2900/Untitled.png)
+The design of this app is from dribbble.com by Ruben Vaalt. https://dribbble.com/shots/4585382-Simple-BMI-Calculator.
 
 ## Getting Started
 
