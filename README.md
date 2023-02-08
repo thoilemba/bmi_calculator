@@ -8,8 +8,6 @@ The design of this app is from dribbble.com by Ruben Vaalt. https://dribbble.com
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
 A few resources to get started first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
