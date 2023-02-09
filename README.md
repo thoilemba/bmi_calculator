@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A simple BMI calculator app.
+A simple BMI calculator app created using Flutter.
 
 This app is created from the londonappbrewery's flutter course. https://github.com/londonappbrewery.
 
